@@ -52,6 +52,5 @@ Per condividere l'app con la classe tramite un semplice link:
 ---
 
 ## 📜 Licenza
-Rilasciato sotto licenza **MIT**. Libera fruizione, modifica e condivisione per scopi didattici e formativi.
 
 Rilasciato sotto licenza **MIT**[cite: 2]. Libera fruizione, modifica e condivisione per scopi didattici e formativi[cite: 2].
