@@ -47,4 +47,4 @@ Scarica il file `index.html` ed aprilo con un qualsiasi browser web (Chrome, Fir
 
 ## 📜 Licenza
 
-Rilasciato sotto licenza **MIT**[cite: 2]. Libera fruizione, modifica e condivisione per scopi didattici e formativi[cite: 2].
+Rilasciato sotto licenza **MIT**. Libera fruizione, modifica e condivisione per scopi didattici e formativi.
