@@ -42,12 +42,6 @@ L'applicazione è contenuta in un **unico file HTML** autonomo, senza bisogno di
 ### Esecuzione Locale
 Scarica il file `index.html` ed aprilo con un qualsiasi browser web (Chrome, Firefox, Edge, Safari).
 
-### Pubblicazione su GitHub Pages
-Per condividere l'app con la classe tramite un semplice link:
-1. Crea un repository GitHub e carica il file rinominandolo in `index.html`.
-2. Vai su **Settings** > **Pages**.
-3. Imposta la sorgente su `main` branch e salva.
-4. Il link per accedere al laboratorio sarà generato in pochi secondi.
 
 ---
 
